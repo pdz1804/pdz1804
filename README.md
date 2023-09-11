@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## I'm Phu, and I'm currently a second-year student in the faculty of Computer Science and Engineering of the Ho Chi Minh city University of Technology (HCMUT).
+## I'm Phu, and I'm currently a second-year student in the faculty of Computer Science and Engineering of Ho Chi Minh city University of Technology (HCMUT).
 - 🔭 I love to be a Web Developer although it's quite hard right now, hope that I could try all my best!
 - ⚡ Fun fact: besides coding, I would love to go around with friends, playing soccer, board games, and learning new skills.
 - 👯 I’m having a girlfriend and we are in a happy, healthy, and memorable relationship together 💌
