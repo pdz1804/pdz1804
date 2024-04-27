@@ -29,13 +29,13 @@ Here are some ideas to get you started:
 ## Connect with me
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/quangphunguyen/" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/quangphunguyen/" target="_blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="quangphunguyen" height="30" width="40" /></a>
-    <a href="[https://fb.com/hiennguyen9874](https://www.facebook.com/zPhuDZz/)" target="blank"><img align="center"
+    <a href="https://www.facebook.com/zPhuDZz/" target="_blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="nguyenquangphu" height="30" width="40" /></a>
-    <a href="https://www.instagram.com/zphudzz/" target="blank"><img align="center"
+    <a href="https://www.instagram.com/zphudzz/" target="_blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="zphudzz" height="30" width="40" /></a>
 </p>
