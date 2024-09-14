@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## I'm Phu, and I'm currently a second-year student in the faculty of Computer Science and Engineering of Ho Chi Minh city University of Technology (HCMUT).
-- 🔭 I love to be an AI Engineer and a creative Web Developer, hope that I could try all my best!
+## I'm Phu and I'm currently a third-year student in the Faculty of Computer Science and Engineering of Ho Chi Minh city University of Technology (HCMUT).
+- 🔭 I love to be an AI Engineer and a creative Web Developer.
 - ⚡ Fun fact: besides Coding, I would love to go around with friends, playing soccer, board games, and learning new skills.
-- 👯 I’m looking to collaborate on some side projects about Machine Learning or Web Developing.
+- 👯 I’m looking to collaborate on some side projects about Machine Learning and Web Developing.
 
 <details>
   <summary>Github Stats ⚡</summary>
