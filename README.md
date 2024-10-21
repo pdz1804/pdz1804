@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   </div>
 </details>
 
-<details>
+<!-- <details>
   <summary><b>⛎ My Pet</b></summary>
 
   <div align="center">
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
   />
 </picture>
   </div>
-</details>
+</details> -->
 
 ## Connect with me
 
