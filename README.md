@@ -66,7 +66,7 @@ Here are some ideas to get you started:
     <a href="https://www.facebook.com/zPhuDZz/" target="_blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="nguyenquangphu" height="30" width="40" /></a>
-    <a href="https://www.instagram.com/zphudzz/" target="_blank"><img align="center"
+    <a href="https://www.instagram.com/phu.ngquang/" target="_blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="zphudzz" height="30" width="40" /></a>
 </p>
