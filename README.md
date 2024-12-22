@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## About Me
+## 👤 About Me
 I'm **Phu**, a third-year student at the **Faculty of Computer Science and Engineering, Ho Chi Minh City University of Technology (HCMUT)**.
 
 - 🔭 I aspire to become an **AI Engineer** and a creative **Web Developer**.
