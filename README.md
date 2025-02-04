@@ -111,7 +111,7 @@ I'm **Phu**, a third-year student at the **Faculty of Computer Science and Engin
   <a href="https://www.linkedin.com/in/quangphunguyen/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
-  <a href="https://kaggle.com/https://www.kaggle.com/zphudzz" target="_blank">
+  <a href="https://www.kaggle.com/zphudzz" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40"/>
   </a>
   <a href="https://www.facebook.com/zPhuDZz/" target="_blank">
