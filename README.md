@@ -118,3 +118,5 @@ I'm **Phu**, a third-year student at the **Faculty of Computer Science and Engin
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
   </a>
 </p>
+
+![](https://komarev.com/ghpvc/?username=pdz1804&style=for-the-badge&abbreviated=true&color=0f4c81)
