@@ -1,6 +1,9 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 ## 👤 About Me
+
+<img align="right" alt="Coding" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 I am a **third-year** student majoring in **Computer Science** with a specialization in **Artificial Intelligence** at **Ho Chi Minh City University of Technology (VNU-HCMUT)**.
 
 - 🔭 I aspire to become an **AI Engineer** and a creative **Web Developer**.
