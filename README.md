@@ -2,13 +2,15 @@
 
 ## 👤 About Me
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 I am a **third-year** student majoring in **Computer Science** with a specialization in **Artificial Intelligence** at **Ho Chi Minh City University of Technology (VNU-HCMUT)**.
 
 - 🔭 I aspire to become an **AI Engineer** and a creative **Web Developer**.
 - ⚡ **Fun fact:** Besides coding, I enjoy hanging out with friends, playing soccer, board games, and learning new skills.
 - 👯 I’m looking to collaborate on exciting projects related to **Machine Learning** and **Web Development**.
+
+---
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -92,9 +94,4 @@ I am a **third-year** student majoring in **Computer Science** with a specializa
 </p>
 
 ![](https://komarev.com/ghpvc/?username=pdz1804&style=for-the-badge&abbreviated=true&color=0f4c81)
-
----
-
-
-
 
