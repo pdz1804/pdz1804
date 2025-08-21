@@ -2,7 +2,7 @@
 
 ## 👤 About Me
 
-<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 I am a **third-year** student majoring in **Computer Science** with a specialization in **Artificial Intelligence** at **Ho Chi Minh City University of Technology (VNU-HCMUT)**.
 
@@ -10,20 +10,23 @@ I am a **third-year** student majoring in **Computer Science** with a specializa
 - ⚡ **Fun fact:** Besides coding, I enjoy hanging out with friends, playing soccer, board games, and learning new skills.
 - 👯 I’m looking to collaborate on exciting projects related to **Machine Learning** and **Web Development**.
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ---
 
 <details>
   <summary><b>🏆 GitHub Stats</b></summary>
   <div align="center">
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=pdz1804&theme=blueberry&count_private=true&hide_border=true&line_height=20" alt="GitHub Stats" /></a>
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdz1804&layout=compact&theme=blueberry&count_private=true&hide_border=true" alt="Top Languages" /></a>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=pdz1804&theme=radical&count_private=true&hide_border=true&line_height=20" alt="GitHub Stats" /></a>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdz1804&layout=compact&theme=radical&count_private=true&hide_border=true" alt="Top Languages" /></a>
   </div>
 </details>
 
 <details>
   <summary><b>🏆 GitHub Trophies</b></summary>
   <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=pdz1804&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+<!--     <img src="https://github-profile-trophy.vercel.app/?username=pdz1804&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" /> -->
+    <img src="https://github-trophies.vercel.app/?username=pdz1804&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
   </div>
 </details>
 
@@ -89,3 +92,9 @@ I am a **third-year** student majoring in **Computer Science** with a specializa
 </p>
 
 ![](https://komarev.com/ghpvc/?username=pdz1804&style=for-the-badge&abbreviated=true&color=0f4c81)
+
+---
+
+
+
+
