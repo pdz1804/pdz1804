@@ -2,7 +2,7 @@
 
 ## 👤 About Me
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 I am a **third-year** student majoring in **Computer Science** with a specialization in **Artificial Intelligence** at **Ho Chi Minh City University of Technology (VNU-HCMUT)**.
 
