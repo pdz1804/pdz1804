@@ -19,7 +19,7 @@ I am a **third-year** student majoring in **Computer Science** with a specializa
 <details>
   <summary><b>🏆 GitHub Stats</b></summary>
   <div align="center">
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=pdz1804&theme=dracula&count_private=true&hide_border=true&line_height=20" alt="GitHub Stats" /></a>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=pdz1804&theme=dracula&count_private=true&hide_border=true&line_height=20&rank_icon=percentile" alt="GitHub Stats" /></a>
     <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdz1804&layout=compact&theme=dracula&count_private=true&hide_border=true" alt="Top Languages" /></a>
     <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pdz1804&theme=dracula&hide_border=false" alt="Streak" /></a>
   </div>
