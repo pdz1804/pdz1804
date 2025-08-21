@@ -12,15 +12,16 @@ I am a **third-year** student majoring in **Computer Science** with a specializa
 
 ---
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
 ---
 
 <details>
   <summary><b>🏆 GitHub Stats</b></summary>
   <div align="center">
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=pdz1804&theme=radical&count_private=true&hide_border=true&line_height=20" alt="GitHub Stats" /></a>
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdz1804&layout=compact&theme=radical&count_private=true&hide_border=true" alt="Top Languages" /></a>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=pdz1804&theme=dracula&count_private=true&hide_border=true&line_height=20" alt="GitHub Stats" /></a>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdz1804&layout=compact&theme=dracula&count_private=true&hide_border=true" alt="Top Languages" /></a>
+    <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pdz1804&theme=dracula&hide_border=false" alt="Streak" /></a>
   </div>
 </details>
 
@@ -28,7 +29,7 @@ I am a **third-year** student majoring in **Computer Science** with a specializa
   <summary><b>🏆 GitHub Trophies</b></summary>
   <div align="center">
 <!--     <img src="https://github-profile-trophy.vercel.app/?username=pdz1804&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" /> -->
-    <img src="https://github-trophies.vercel.app/?username=pdz1804&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+    <img src="https://github-trophies.vercel.app/?username=pdz1804&theme=dracula&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
   </div>
 </details>
 
