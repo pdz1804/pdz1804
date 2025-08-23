@@ -37,6 +37,8 @@ I am a **third-year** student majoring in **Computer Science** with a specializa
 
 ## 🛠️ Languages and Tools
 
+<details>
+  <summary><b>🏆 Click to view</b></summary>
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -110,6 +112,7 @@ I am a **third-year** student majoring in **Computer Science** with a specializa
   ![Github Copilot](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
   ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
   ![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)
+</details>
 
 ---
 
