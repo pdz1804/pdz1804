@@ -39,6 +39,7 @@ I am a **third-year** student majoring in **Computer Science** with a specializa
 
 <details>
   <summary><b>🏆 Click to view</b></summary>
+  
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
