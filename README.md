@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-I am a **third-year** student majoring in **Computer Science** with a specialization in **Artificial Intelligence** at **Ho Chi Minh City University of Technology (VNU-HCMUT)**.
+I am a **fourth-year** student majoring in **Computer Science** with a specialization in **Artificial Intelligence** at **Ho Chi Minh City University of Technology (VNU-HCMUT)**.
 
 - 🔭 I aspire to become an **AI Engineer** and a creative **Web Developer**.
 - ⚡ **Fun fact:** Besides coding, I enjoy hanging out with friends, playing soccer, board games, and learning new skills.
