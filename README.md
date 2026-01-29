@@ -8,7 +8,7 @@ I am a **fourth-year** student majoring in **Computer Science** with a specializ
 
 - 🔭 I aspire to become an **AI Engineer** and a creative **Web Developer**.
 - ⚡ **Fun fact:** Besides coding, I enjoy hanging out with friends, playing soccer, board games, and learning new skills.
-- 👯 I’m looking to collaborate on exciting projects related to **Machine Learning** and **Web Development**.
+- 👯 I’m looking to collaborate on exciting projects related to **Agents, Cloud Project, NLP Projects, Deep Learning, Machine Learning** and **Web Development**. **Computer Vision and Robotics** is not my advantages but I would love to pair coding and learn from side projects <3
 
 ---
 
