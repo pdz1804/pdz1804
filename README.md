@@ -146,22 +146,13 @@ I operate services through a modern **observability** stack (structured logging,
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pdz1804&show_icons=true&count_private=true&hide_border=true&rank_icon=percentile&theme=tokyonight&title_color=38bdf8&icon_color=34d399" />
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=pdz1804&show_icons=true&count_private=true&hide_border=true&rank_icon=percentile&title_color=0284c7&icon_color=0d9488" />
-</picture>
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=pdz1804&hide_border=true&theme=tokyonight&ring=38bdf8&fire=34d399&currStreakLabel=38bdf8" />
-  <img height="165" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=pdz1804&hide_border=true&ring=0284c7&fire=0d9488&currStreakLabel=0284c7" />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=pdz1804&hide_border=true&ring=0284c7&fire=0d9488&currStreakLabel=0284c7" />
 </picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pdz1804&layout=compact&count_private=true&hide_border=true&langs_count=10&theme=tokyonight&title_color=38bdf8" />
-  <img height="150" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdz1804&layout=compact&count_private=true&hide_border=true&langs_count=10&title_color=0284c7" />
-</picture>
-
-<img width="92%" alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=pdz1804&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7" />
 
 </div>
+
+<sub>Contribution graph, pinned repositories and language breakdown are on the profile below.</sub>
 
 ---
 
