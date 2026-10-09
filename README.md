@@ -45,16 +45,25 @@ I operate services through a modern **observability** stack (structured logging,
 
 ---
 
+## 🏆 &nbsp;Honors
+
+- **Top 10 outstanding projects, AI Riser Vietnam 2026** (Google for Developers · #BuildwithGoogleAI) &nbsp;·&nbsp; `Oct 2026`
+  For **[Sách Của Em](https://sach-cua-em.ai.studio)** — a teacher studio that turns photos of textbook pages into printable, curriculum-cited lessons for Vietnamese primary-school teachers. Presented live at the Demo Day (GEM Center, HCMC) · ranked **4th of 10** in the audience-favourite poll (26% of the vote).
+- **AI1 Young Talent**, Level 3 (FPT Software) &nbsp;·&nbsp; `Sep 2026`
+- **"Best Team" award**, FPT Americas (ST25) &nbsp;·&nbsp; `2025`
+
+---
+
 ## 🧑‍💼 &nbsp;Experience
 
-### Associate AI Engineer — FPT Software AI Center &nbsp;·&nbsp; `Nov 2025 – Present`
+### AI Engineer — FPT Software AI Center &nbsp;·&nbsp; `Nov 2025 – Present`
 
-- **Agentic ERP Platform** (team of 15) — an enterprise AI workspace where autonomous agents act inside a company's business systems. Scope: **agent runtime, permissions & governance, multi-tenant administration, integrations** and customer-facing interfaces.
+- **Agentic ERP Platform** (team of 15, stealth mode, ~1,000 users / ~100 DAU) — an enterprise AI workspace where autonomous agents act inside a company's business systems. Scope: **agent runtime, permissions & governance, multi-tenant administration, integrations** and customer-facing interfaces.
 - Built the runtime **permission layer** (default-deny, enforced at runtime), per-customer administrator controls with a full **audit trail**, and **usage & cost reporting**; authored the permission-model specification through many review rounds.
-- Shipped the first release of **user-authored Skills** and team sharing across agents, skills and artifacts; cut a slow shared-content endpoint from **tens of seconds to a single query**; consolidated user & group management onto one source of truth.
+- Shipped the first release of **user-authored Skills** and team sharing across agents, skills and artifacts; consolidated user & group management onto one source of truth.
 - Built a **third-party integration** from scratch; implemented queued messaging; improved streaming chat (conversation search, composer usable while replies stream).
 - Operate services via **OpenTelemetry, Prometheus, Sentry and Arize Phoenix**; daily CI work with quality and architecture gates and migration-safety checks; review peers on architecture boundaries, permission correctness and migration safety.
-- Earlier: architected a **healthcare agentic chatbot** and its **Management Portal** on **AWS Bedrock AgentCore** (team of 10), leading POC → production at **&gt;90% end-to-end accuracy**. 🏆 Team received the **"Best Team" award** — FPT Americas (ST25).
+- Earlier: built the core agent harness of a **healthcare agentic chatbot** on **AWS Bedrock AgentCore** (team of 10) — **&gt;90% accuracy** on a golden dataset built from customer discussions, typical response latency cut 30s → 15s → 8s — and solo-built its **Management Portal**. 🏆 Team received the **"Best Team" award** — FPT Americas (ST25).
 - Presented three internal **AI4ALL** knowledge-sharing sessions — *"AWS Strands Agents in the Cloud Era"*, *"Portal for Agent Projects"*, *"Agent as a Judge: How AI Evaluates AI"* — and mentored an intern alongside senior engineers.
 
 ### AI Engineer Intern — FPT Software AI Center &nbsp;·&nbsp; `Jun – Oct 2025`
@@ -77,8 +86,9 @@ I operate services through a modern **observability** stack (structured logging,
 | Project | When | Stack |
 |---|---|---|
 | **Agentic ERP Platform** — enterprise AI workspace; agent runtime, permission layer, multi-tenant admin, Skills / Artifacts / Automations, plugin system | `Jun 2026 –` | FastAPI · Temporal · PostgreSQL · GKE · React |
-| **Healthcare Agentic Chatbot & Management Portal** — multi-agent chatbot at &gt;90% accuracy + knowledge / prompt / guardrail management portal | `Nov 2025 – May 2026` | AWS Bedrock AgentCore · Strands |
+| **Healthcare Agentic Chatbot & Management Portal** — agentic chatbot at &gt;90% accuracy (golden dataset) + knowledge / prompt / guardrail management portal | `Nov 2025 – May 2026` | AWS Bedrock AgentCore · Strands |
 | **Smart Product Recommendation System (SPR)** — rule-based + LLM hybrid recommendation engine for a skin-health device; compliance, quality gates, automated testing | `Oct – Nov 2025` | Amazon Bedrock · Testing Automation |
+| **[Sách Của Em](https://sach-cua-em.ai.studio)** — teacher studio: textbook photos → printable, curriculum-cited comics and explainers (AI Riser Vietnam 2026 Top 10) | `Aug 2026 –` | Gemini · Firebase · Cloud Run |
 | **[M3ARAG](https://github.com/pdz1804/M3ARAG)** — GPU-accelerated multi-agent RAG for local, cloud-free document intelligence | `Aug – Oct 2025` | LangGraph · Docling · ColPali |
 | **Azure Blog System with Search & Recommendation** — full-stack blog with hybrid semantic search and personalised recommendation | `Aug – Oct 2025` | Azure AI Search · Cosmos DB · Redis |
 | **[Dual Attention Model for Innovation Discovery](https://github.com/pdz1804/dual-attn-op-discovery)** — attention model for technical-keyword extraction and Company ↔ Patent alignment | `Jun – Jul 2025` | PyTorch · Sentence-Transformers |
