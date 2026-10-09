@@ -40,7 +40,7 @@ I operate services through a modern **observability** stack (structured logging,
 ## 🎓 &nbsp;Education
 
 - **Ho Chi Minh City University of Technology (HCMUT)** — B.Sc. Computer Science, Major in Applied Artificial Intelligence &nbsp;·&nbsp; `Sep 2022 – 2026`
-  Graduated with **Excellent** classification · **Cumulative GPA 3.8 / 4.0** · Academic Incentive Scholarship (4/8 semesters) · OISP Scholarship (3/8 semesters) · **Consolidation Prize**, Bach Khoa Innovation Contest (Jun 2023)
+  Graduated with **Excellent** classification · **Cumulative GPA 3.8 / 4.0** ([official transcript, identifiers redacted](https://pdz1804.github.io/assets/docs/academic-transcript-hcmut.pdf)) · Academic Incentive Scholarship (4/8 semesters) · OISP Scholarship (3/8 semesters) · **Consolidation Prize**, Bach Khoa Innovation Contest (Jun 2023)
 - **Le Hong Phong High School for the Gifted** — Mathematics Honours Class &nbsp;·&nbsp; `2019 – 2022`
 
 ---
@@ -48,7 +48,7 @@ I operate services through a modern **observability** stack (structured logging,
 ## 🏆 &nbsp;Honors
 
 - **Top 10 outstanding projects, AI Riser Vietnam 2026** (Google for Developers · #BuildwithGoogleAI) &nbsp;·&nbsp; `Oct 2026`
-  For **[Sách Của Em](https://sach-cua-em.ai.studio)** — a teacher studio that turns photos of textbook pages into printable, curriculum-cited lessons for Vietnamese primary-school teachers. Presented live at the Demo Day (GEM Center, HCMC) · ranked **4th of 10** in the audience-favourite poll (26% of the vote).
+  For **[Sách Của Em](https://sach-cua-em.ai.studio)** — a teacher studio that turns photos of textbook pages into printable, curriculum-cited lessons for Vietnamese primary-school teachers. Presented live at the Demo Day (GEM Center, HCMC) · ranked **4th of 10** in the audience-favourite poll (26% of the vote) · [photos & certificate](https://pdz1804.github.io/#honors).
 - **AI1 Young Talent**, Level 3 (FPT Software) &nbsp;·&nbsp; `Sep 2026`
 - **"Best Team" award**, FPT Americas (ST25) &nbsp;·&nbsp; `2025`
 
@@ -94,6 +94,22 @@ I operate services through a modern **observability** stack (structured logging,
 | **[Dual Attention Model for Innovation Discovery](https://github.com/pdz1804/dual-attn-op-discovery)** — attention model for technical-keyword extraction and Company ↔ Patent alignment | `Jun – Jul 2025` | PyTorch · Sentence-Transformers |
 
 **Academic** &nbsp;·&nbsp; [Fine-tuning LMs for NLP Tasks](https://github.com/pdz1804/BTL_NLP) (T5 / BART / Flan-T5, LoRA) &nbsp;·&nbsp; [Sentiment Analysis with Various Models](https://github.com/pdz1804/ML_LHPD2) (7 ML/DL models) &nbsp;·&nbsp; [Detect AI-generated Text](https://github.com/Frankie2030/PIProject-detect-ai-essay) (DistilBERT vs. classical)
+
+
+### 🧪 &nbsp;Open-source builds
+
+Personal projects, each with its own README. Descriptions are taken from the repositories.
+
+| Repository | What it is | Stack |
+|---|---|---|
+| **[StreamSight](https://github.com/pdz1804/streamsight)** | Real-time object detection and multi-object tracking on a 4 GB laptop GPU, with a WebSocket streaming console, a quantisation pipeline and an accuracy-throughput frontier | YOLO11n · ByteTrack · Python |
+| **[EvalForge](https://github.com/pdz1804/evalforge)** | Eval-first agentic RAG over the ML-arXiv literature: hybrid retrieval, grounded source-cited streaming answers, RAGAS quality gates that block regressions in CI | pgvector · BM25 · Redis · Next.js |
+| **[AgentForge](https://github.com/pdz1804/agentforge)** · **[FloraLens](https://github.com/pdz1804/floralens)** | A YAML-manifest agent-building platform (LangGraph ReAct runtime, tools / memory / guardrails, eval harness with regression gate) and a visual flower-similarity search built on its shared agent core | LangGraph · DINOv2 · Docker |
+| **[Agent Harness & MRO Predictive Maintenance](https://github.com/pdz1804/agent-harness-and-mro-copilot)** | An LLM-to-tool execution loop with human approval gates, and an aircraft-maintenance control desk, each with a narrated walkthrough video | TypeScript |
+| **[Threadglass](https://github.com/pdz1804/threadglass)** | A fast, local-first explorer for Facebook Messenger archive exports: browse, search and measure your own history without anything leaving your machine | TypeScript |
+| **[AgentCore learning hub](https://github.com/pdz1804/aws-agentcore-learning-hub)** | AgentCore Runtime samples: a single Strands + Bedrock agent, and an MCP server + agent deployed as two runtimes | AWS Bedrock AgentCore |
+| **[Agent-as-a-Judge deck](https://github.com/pdz1804/agent-as-a-judge-presentation)** | Bilingual (EN/VI) presentation and speaker materials from my internal AI4ALL talk, plus an agent-evaluation tooling reference | HTML |
+| **[CS252 capstone](https://github.com/pdz1804/capstone-project)** | HCMUT capstone: multimodal lecture processing and a retrieval-augmented generation research platform | Python · AWS |
 
 ---
 
