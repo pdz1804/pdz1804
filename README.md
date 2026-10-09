@@ -102,6 +102,7 @@ Personal projects, each with its own README. Descriptions are taken from the rep
 
 | Repository | What it is | Stack |
 |---|---|---|
+| **[Tech News Mystery](https://github.com/pdz1804/tech-new-mystery)** | Full-stack AI tech-news workspace: Crawl4AI / NewsAPI / Tavily ingestion, Qdrant semantic search, topic clusters on a PCA embedding map, a streamed chat agent and a voice agent (ElevenLabs STT/TTS over LiveKit with talk-over interruption); LangGraph on AWS Bedrock AgentCore, Celery workers, Terraform on AWS with GitHub Actions CI/CD | FastAPI · Next.js · LangGraph · Qdrant · Terraform |
 | **[StreamSight](https://github.com/pdz1804/streamsight)** | Real-time object detection and multi-object tracking on a 4 GB laptop GPU, with a WebSocket streaming console, a quantisation pipeline and an accuracy-throughput frontier | YOLO11n · ByteTrack · Python |
 | **[EvalForge](https://github.com/pdz1804/evalforge)** | Eval-first agentic RAG over the ML-arXiv literature: hybrid retrieval, grounded source-cited streaming answers, RAGAS quality gates that block regressions in CI | pgvector · BM25 · Redis · Next.js |
 | **[AgentForge](https://github.com/pdz1804/agentforge)** · **[FloraLens](https://github.com/pdz1804/floralens)** | A YAML-manifest agent-building platform (LangGraph ReAct runtime, tools / memory / guardrails, eval harness with regression gate) and a visual flower-similarity search built on its shared agent core | LangGraph · DINOv2 · Docker |
